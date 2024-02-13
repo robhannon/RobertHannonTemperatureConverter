@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RobertHannonTemperatureConverter</string>
+    <string name="warm">I wish it were warmer!</string>
+    <string name="cold">I wish it were colder!</string>
+    <string name="init_C">0</string>
+    <string name="init_F">32</string>
+    <string name="C">Celsius</string>
+    <string name="F">Fahrenheit</string>
+</resources>
